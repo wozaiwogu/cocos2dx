@@ -1,0 +1,61 @@
+﻿生成启动时间为 2017/11/6 20:54:22。
+     1>项目“D:\cocos\qipai-client\frameworks\cocos2d-x\cocos\scripting\js-bindings\proj.win32\libjscocos2d.vcxproj”在节点 3 上(Build 个目标)。
+     1>PreBuildEvent:
+         if not exist "D:\cocos\qipai-client\frameworks\runtime-src\proj.win32\Debug.win32\" mkdir "D:\cocos\qipai-client\frameworks\runtime-src\proj.win32\Debug.win32\"
+         
+         xcopy /Y /Q "D:\cocos\qipai-client\frameworks\cocos2d-x\cocos\scripting\js-bindings\proj.win32\..\..\..\..\external\spidermonkey\prebuilt\win32\*.*" "D:\cocos\qipai-client\frameworks\runtime-src\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 2 个文件
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\cocos\qipai-client\frameworks\runtime-src\proj.win32\Debug.win32\libjscocos2d.lib" /NOLOGO Debug.win32\libjscocos2d\jsb_cocos2dx_3d_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_3d_extension_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_audioengine_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_builder_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_custom_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_experimental_video_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_experimental_webView_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_extension_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_navmesh_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_physics3d_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_spine_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_studio_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_ui_auto.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_3d_manual.obj
+         Debug.win32\libjscocos2d\js_bindings_chipmunk_auto_classes.obj
+         Debug.win32\libjscocos2d\js_bindings_chipmunk_functions.obj
+         Debug.win32\libjscocos2d\js_bindings_chipmunk_manual.obj
+         Debug.win32\libjscocos2d\js_bindings_chipmunk_registration.obj
+         Debug.win32\libjscocos2d\cocos2d_specifics.obj
+         Debug.win32\libjscocos2d\js_bindings_ccbreader.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_studio_conversions.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_studio_manual.obj
+         Debug.win32\libjscocos2d\CCComponentJS.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_extension_manual.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_custom_manual.obj
+         Debug.win32\libjscocos2d\jsb_event_dispatcher_manual.obj
+         Debug.win32\libjscocos2d\jsb_opengl_functions.obj
+         Debug.win32\libjscocos2d\jsb_opengl_manual.obj
+         Debug.win32\libjscocos2d\jsb_opengl_registration.obj
+         Debug.win32\libjscocos2d\js_bindings_core.obj
+         Debug.win32\libjscocos2d\js_bindings_opengl.obj
+         Debug.win32\libjscocos2d\js_manual_conversions.obj
+         Debug.win32\libjscocos2d\js_module_register.obj
+         Debug.win32\libjscocos2d\js_bindings_system_functions.obj
+         Debug.win32\libjscocos2d\js_bindings_system_registration.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_navmesh_conversions.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_navmesh_manual.obj
+         Debug.win32\libjscocos2d\jsb_socketio.obj
+         Debug.win32\libjscocos2d\jsb_websocket.obj
+         Debug.win32\libjscocos2d\XMLHTTPRequest.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_physics3d_manual.obj
+         Debug.win32\libjscocos2d\ScriptingCore.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_spine_manual.obj
+         Debug.win32\libjscocos2d\jsb_cocos2dx_ui_manual.obj
+         libjscocos2d.vcxproj -> D:\cocos\qipai-client\frameworks\runtime-src\proj.win32\Debug.win32\libjscocos2d.lib
+     1>已完成生成项目“D:\cocos\qipai-client\frameworks\cocos2d-x\cocos\scripting\js-bindings\proj.win32\libjscocos2d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.08

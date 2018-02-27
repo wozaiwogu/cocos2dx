@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/external/Box2D/Dynamics/b2World.cpp \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2Math.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2Settings.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/b2Island.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2CircleShape.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2EdgeShape.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2ChainShape.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2PolygonShape.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2Draw.h \
+  /Users/Shared/Jenkins/cocosPrograms/cocos2d-x/build/../external/Box2D/Common/b2Timer.h
